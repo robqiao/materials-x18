@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> say_please == 'More please'
+          >>> 12 <= modified_result <= 32
           True
           """,
           'hidden': False,
